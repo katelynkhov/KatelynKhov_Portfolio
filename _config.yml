@@ -1,5 +1,5 @@
 title: "Katelyn Khov's Portfolio"
-logo: "/images/IMG_0213.JPG"
+logo: "/images/IMG_0213.jpg"
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
