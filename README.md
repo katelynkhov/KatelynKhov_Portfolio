@@ -18,7 +18,7 @@ Loyola University Maryland
 
 #### Grade Calculator
  - While creating the grade calculator, I intended to solve the issue of not fully knowing the weight of each assignment and issue for classes. It was a problem that needed to be solved because I needed to figure out how each part of the course would affect my overall grade in that class. Creating a grade calculator visually organizes the components of the course and predicts how I will do in the class. In Excel, I used the SUM, IF, division, and multiplication functions when creating the grade calculator. In addition, I used a pie chart to represent the weight of each material in the course. One challenge I faced was making the pie chart, as it was not accurately visually displaying the data in the table. I overcame this by realizing I was putting both tables in the pie chart when I should have only been putting one. I set out to achieve organization of materials in the courses I am taking, which I successfully achieved. If I had the chance to take this further, I would alter the layout to be more visually appealing.
- - \images\Grade_Calculator.png
+ ![Example of Grade Calculator](/images/Grade_Calculator.png)
  - The grade calculator not only visually represents the weight of each material in the courses, but also predicts your overall grade in that particular course. 
 
 
