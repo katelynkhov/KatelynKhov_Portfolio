@@ -1,4 +1,4 @@
-!(banner image goes here)(link to banner)
+![](/images/CA64E2D0-458B-4F9A-AF6E-CF37A44C3F28.jpg)
 # Katelyn Khov
 Contact Info: katelynlk1610@gmail.com
 ### About Me 
@@ -24,12 +24,12 @@ Loyola University Maryland
 
 #### Bi-Weekly Timesheet
  - I came up with the Bi-Weekly Timesheet to solve the issue of the unorganization of the times a person has worked. Most workers do not keep track of the times that they have worked. As a result, it leads to payrolls not matching their timesheets. Making this timesheet allows easy accessibility for workers to check how much they have worked on a bi-weekly schedule. In Excel, I used the SUM and the subtraction functions to calculate the times for each week and the total for the two weeks. While making the timesheet, I faced an obstacle when creating the formula for the total hours worked, as the total was not adding accurately. I overcame this by changing the number format for the total hours worked. I set out to achieve this timesheet to organize time and hours worked. If I had a chance to take this further, I would make the timesheet more vague, so that it is more applicable for every bi-weekly timesheet.
- - [insert project 2 screenshot here]
+ ![Example of Bi-Weekly Timesheet](images/Timesheet.png)
  - Using Excel’s SUM formulas, the Bi-Weekly Timesheet allows workers to keep track of the times they have worked in an organized manner. It ensures better accessibility to their timesheet and an easier way to compare if their payroll aligns with their timesheet. 
 
 
 #### Inventory Management Table
  - I created an Inventory Management Table to organize and manage several details of inventory, such as details of the product, the quantity, the purchase price, and the selling price. When creating this, I set out to resolve the issue of unorganization, especially when managing inventory. Keeping track of inventory can take a lot of time when unorganized. This table lays out the essentials of inventory on one sheet, making it easier for people to keep track of each product. To make this table, I used conditional formatting, IF functions, and subtraction and multiplication functions in Excel. While creating this project, I was faced with the obstacle of setting the profit margin for each product. I did not have enough information or experience to determine what a reasonable profit margin was. However, after consulting with others, I was able to set a logical profit margin. I set out to achieve putting the essential categories of inventory management onto one table. If I had a chance to take the project further, I would include the rarity or safety of the stock of each product. 
- - [insert project 3 screenshot here]
+ ![Example of Inventory Management Table](images/Inventory_Table.png)
  - The Inventory Management Table is crucial for companies and for selling goods. Utilizing Excel significantly developed the table, as the total, estimated profit, and profit margin change as prices drop or rise. 
 
