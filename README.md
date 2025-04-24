@@ -1,4 +1,4 @@
-!(banner image goes here) (link to banner)
+!(banner image goes here)(link to banner)
 # Katelyn Khov
 Contact Info: katelynlk1610@gmail.com
 ### About Me 
@@ -11,8 +11,8 @@ My dynamic skill set, commitment to helping others, and passion for learning mak
 You can find me on https://www.linkedin.com/in/katelynkhov/.
 
 ### Education 
-Mount Pleasant High School (2020-2024)
-Loyola University Maryland (2024-present)
+BSc in Political Science
+Loyola University Maryland
 ***
 ### Projects
 
